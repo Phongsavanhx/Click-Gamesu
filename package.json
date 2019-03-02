@@ -1,0 +1,24 @@
+{
+  "name": "click-gamesu",
+  "version": "1.0.0",
+  "description": "Memory game using React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phongsavanhx/Click-Gamesu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phongsavanhx/Click-Gamesu/issues"
+  },
+  "homepage": "https://github.com/Phongsavanhx/Click-Gamesu.git",
+  "dependencies": {
+    "create-react-app": "^2.1.5",
+    "sed": "0.0.1"
+  }
+}
